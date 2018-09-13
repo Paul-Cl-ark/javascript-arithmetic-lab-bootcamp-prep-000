@@ -24,7 +24,7 @@ function dec(a) {
 
 base = 10
 function makeInt(n, base) {
-parseInt(n, base)
+  parseInt(n, base)
 return n  
 }
 
