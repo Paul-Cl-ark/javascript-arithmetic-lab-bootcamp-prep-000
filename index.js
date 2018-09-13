@@ -22,8 +22,10 @@ function dec(a) {
   return a -= 1
 }
 
-function makeInt(n.tostring, base) {
+function makeInt(n, base) {
   parseInt(n, 10)
 return n  
 }
+
+function preserveDecimal(n)
 
