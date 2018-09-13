@@ -22,7 +22,6 @@ function dec(a) {
   return a -= 1
 }
 
-base = 10
 function makeInt(n, base) {
   parseInt(n, base)
 return n  
