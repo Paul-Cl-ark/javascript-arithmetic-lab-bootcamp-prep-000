@@ -22,7 +22,7 @@ function dec(a) {
   return a -= 1
 }
 
-var base = 10
+base = 10
 function makeInt(n, base) {
 parseInt(n, base)
 return n  
