@@ -14,7 +14,6 @@ function divide(a, b) {
   return a / b
 }
 
-var = number 
-function inc() {
-  return a += a
+function inc(a) {
+  return a += 1
 }
